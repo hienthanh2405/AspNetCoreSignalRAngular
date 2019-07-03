@@ -12,3 +12,17 @@ D:\C#\SignalR\SignalR\obj\Debug\netcoreapp2.2\SignalR.RazorTargetAssemblyInfo.ca
 D:\C#\SignalR\SignalR\bin\Debug\netcoreapp2.2\SignalR.pdb
 D:\C#\SignalR\SignalR\obj\Debug\netcoreapp2.2\SignalR.dll
 D:\C#\SignalR\SignalR\obj\Debug\netcoreapp2.2\SignalR.pdb
+D:\ThanhHien\AspNetCoreSignalRAngular\SignalR\SignalR\bin\Debug\netcoreapp2.2\SignalR.deps.json
+D:\ThanhHien\AspNetCoreSignalRAngular\SignalR\SignalR\bin\Debug\netcoreapp2.2\SignalR.runtimeconfig.json
+D:\ThanhHien\AspNetCoreSignalRAngular\SignalR\SignalR\bin\Debug\netcoreapp2.2\SignalR.runtimeconfig.dev.json
+D:\ThanhHien\AspNetCoreSignalRAngular\SignalR\SignalR\bin\Debug\netcoreapp2.2\SignalR.dll
+D:\ThanhHien\AspNetCoreSignalRAngular\SignalR\SignalR\bin\Debug\netcoreapp2.2\SignalR.pdb
+D:\ThanhHien\AspNetCoreSignalRAngular\SignalR\SignalR\obj\Debug\netcoreapp2.2\SignalR.csprojAssemblyReference.cache
+D:\ThanhHien\AspNetCoreSignalRAngular\SignalR\SignalR\obj\Debug\netcoreapp2.2\SignalR.csproj.CoreCompileInputs.cache
+D:\ThanhHien\AspNetCoreSignalRAngular\SignalR\SignalR\obj\Debug\netcoreapp2.2\SignalR.RazorAssemblyInfo.cache
+D:\ThanhHien\AspNetCoreSignalRAngular\SignalR\SignalR\obj\Debug\netcoreapp2.2\SignalR.RazorAssemblyInfo.cs
+D:\ThanhHien\AspNetCoreSignalRAngular\SignalR\SignalR\obj\Debug\netcoreapp2.2\SignalR.AssemblyInfoInputs.cache
+D:\ThanhHien\AspNetCoreSignalRAngular\SignalR\SignalR\obj\Debug\netcoreapp2.2\SignalR.AssemblyInfo.cs
+D:\ThanhHien\AspNetCoreSignalRAngular\SignalR\SignalR\obj\Debug\netcoreapp2.2\SignalR.RazorTargetAssemblyInfo.cache
+D:\ThanhHien\AspNetCoreSignalRAngular\SignalR\SignalR\obj\Debug\netcoreapp2.2\SignalR.dll
+D:\ThanhHien\AspNetCoreSignalRAngular\SignalR\SignalR\obj\Debug\netcoreapp2.2\SignalR.pdb

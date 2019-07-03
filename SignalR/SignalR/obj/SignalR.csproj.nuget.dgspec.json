@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\C#\\SignalR\\SignalR\\SignalR.csproj": {}
+    "D:\\ThanhHien\\AspNetCoreSignalRAngular\\SignalR\\SignalR\\SignalR.csproj": {}
   },
   "projects": {
-    "D:\\C#\\SignalR\\SignalR\\SignalR.csproj": {
+    "D:\\ThanhHien\\AspNetCoreSignalRAngular\\SignalR\\SignalR\\SignalR.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C#\\SignalR\\SignalR\\SignalR.csproj",
+        "projectUniqueName": "D:\\ThanhHien\\AspNetCoreSignalRAngular\\SignalR\\SignalR\\SignalR.csproj",
         "projectName": "SignalR",
-        "projectPath": "D:\\C#\\SignalR\\SignalR\\SignalR.csproj",
-        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "D:\\C#\\SignalR\\SignalR\\obj\\",
+        "projectPath": "D:\\ThanhHien\\AspNetCoreSignalRAngular\\SignalR\\SignalR\\SignalR.csproj",
+        "packagesPath": "C:\\Users\\hienbuit2\\.nuget\\packages\\",
+        "outputPath": "D:\\ThanhHien\\AspNetCoreSignalRAngular\\SignalR\\SignalR\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\hienbuit2\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

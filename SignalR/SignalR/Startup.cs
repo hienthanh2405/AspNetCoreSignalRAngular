@@ -55,6 +55,7 @@ namespace SignalR
             app.UseSignalR(routes =>
             {
                 routes.MapHub<NotifyHub>("/notify");
+                routes.MapHub<ChartHub>("/chart");
             });
             app.UseMvc();
         }
